@@ -1,3 +1,3 @@
 git reset --hard HEAD
 git pull
-python Main.pyc
+py -3.8 Main.pyc
